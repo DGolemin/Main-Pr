@@ -1,0 +1,4 @@
+C:\Users\Den\documents\visual studio 2010\Projects\saveGit\saveGit\bin\Debug\saveGit.exe
+C:\Users\Den\documents\visual studio 2010\Projects\saveGit\saveGit\bin\Debug\saveGit.pdb
+C:\Users\Den\documents\visual studio 2010\Projects\saveGit\saveGit\obj\x86\Debug\saveGit.exe
+C:\Users\Den\documents\visual studio 2010\Projects\saveGit\saveGit\obj\x86\Debug\saveGit.pdb
